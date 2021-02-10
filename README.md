@@ -3,20 +3,20 @@ The Walters Art Gallery App gives the user a chance to visit the Walters Art Gal
 
   [Check out the live site!](https://walters-art-gallery-app.herokuapp.com/)
   
-  ## Table of Contents
+ ## Table of Contents
   * [Take a Look](#TakeALook)
   * [Technologies](#Technologies)
   * [Authors](#Authors)
   * [License](#License)
   
-  ## Take a Look
-    Search on the home page.
-  (/client/src/images/WAG.png)
+ ## Take a Look
+ Search on the home page 
+ ![Image](/client/src/images/WAG.png)
   
-  View your personally curated collection.
-  (/client/src/images/collection.png)
+ View your personally curated collection
+  ![Image](/client/src/images/collection.png)
   
-  ## Technologies
+ ## Technologies
 * MERN stack
 * Reactjs
 * Express
@@ -33,12 +33,12 @@ The Walters Art Gallery App gives the user a chance to visit the Walters Art Gal
 * API
 * Axios
 
-  ## Authors
+ ## Authors
 [Jim Wheeler](https://github.com/jrtwheeler)
 [Candice Moreau](https://github.com/SeeMoreGold)
 [Katie Pindell](https://github.com/pindellk)
   
-   ## License
+ ## License
   Copyright (c) Microsoft Corporation. All rights reserved.
   
   Licensed under the MIT license.
