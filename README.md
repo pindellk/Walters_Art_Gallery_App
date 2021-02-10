@@ -9,12 +9,12 @@ The Walters Art Gallery App gives the user a chance to visit the Walters Art Gal
   * [Authors](#Authors)
   * [License](#License)
   
-    ## Take a Look
+  ## Take a Look
     Search on the home page.
-  ![Main](/client/public/images/WAG.png)
+  (/client/src/images/WAG.png)
   
   View your personally curated collection.
-  ![Collection](/client/public/images/collection.png)
+  (/client/src/images/collection.png)
   
   ## Technologies
 * MERN stack
